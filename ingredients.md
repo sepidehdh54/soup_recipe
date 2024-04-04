@@ -6,3 +6,8 @@ Ingredients for Chicken Soup:
 4. Tomato
 5. Carrots
 6. Dates
+7. Mushrooms
+8. Flour
+9. Salt
+10. Pepper
+11. Oil
